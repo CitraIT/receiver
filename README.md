@@ -1,2 +1,3 @@
 # receiver
-HTTP Server to Receive and Store Uploaded Files by HTTP Clients Like Powershell WebClient.UploadFile
+This python script is a minimal http server to receive and store uploaded file by any http client (like powershell webclient.UploadFile). 
+
